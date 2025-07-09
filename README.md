@@ -76,3 +76,10 @@ src/
 ├── main.tsx
 ├── Router.tsx
 └── vite-env.d.ts
+                    
+⚙️ Configuração e Instalação
+  1.Clone o repositório:
+    git clone https://github.com/ThiagoTora/AppCoffee.git
+    cd AppCoffee
+
+  
