@@ -79,21 +79,27 @@
 ```
 ⚙️Configuração e Instalação 
 1. Clone o repositório:
+   
     ```bash 
         git clone https://github.com/ThiagoTora/AppCoffee.git
         cd AppCoffee
     ```
-2. Instale as dependências:
+    
+3. Instale as dependências:
+   
     ```bash
         npm install
         # ou
         yarn install
     ```
-3. Execute o servidor de desenvolvimento:
+    
+5. Execute o servidor de desenvolvimento:
+   
     ```bash
          npm run dev
          # ou
          yarn dev
     ```
+    
 Isso iniciará o servidor de desenvolvimento Vite. Geralmente estará disponível em:
 http://localhost:5173
