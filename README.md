@@ -39,47 +39,62 @@
 ### 🗂️ Estrutura do Projeto
 
 ```plaintext
-src/
-├── assets/
-├── components/
-│   ├── Cafes/
-│   │   └── CoffeeCatalog.tsx
-│   ├── Header/
-│   │   └── Header.tsx
-│   └── styles.ts
-├── contexts/
-│   └── CarrinhoContext.tsx
-├── layouts/
-│   └── DefaultLayout/
-│       └── DefaultLayout.tsx
-├── pages/
-│   ├── Checkout/
-│   │   ├── Checkout.tsx
-│   │   ├── components/
-│   │   │   ├── ConfirmLocal/
-│   │   │   │   └── styles.ts
-│   │   │   ├── PedidoConfirmado.tsx
-│   │   │   ├── Form/
-│   │   │   │   ├── CheckoutForm.tsx
-│   │   │   │   └── styles.ts
-│   ├── Home/
-│   │   ├── Home.tsx
-│   │   └── styles.ts
-├── styles/
-│   ├── Global.ts
-│   └── themes/
-│       ├── default.ts
-├── types/
-│   ├── styled.d.ts
-│   └── types.ts
-├── App.tsx
-├── main.tsx
-├── Router.tsx
-└── vite-env.d.ts
-                    
-⚙️ Configuração e Instalação
-  1.Clone o repositório:
+    src/
+    ├── assets/
+    ├── components/
+    │   ├── Cafes/
+    │   │   └── CoffeeCatalog.tsx
+    │   ├── Header/
+    │   │   └── Header.tsx
+    │   └── styles.ts
+    ├── contexts/
+    │   └── CarrinhoContext.tsx
+    ├── layouts/
+    │   └── DefaultLayout/
+    │       └── DefaultLayout.tsx
+    ├── pages/
+    │   ├── Checkout/
+    │   │   ├── Checkout.tsx
+    │   │   ├── components/
+    │   │   │   ├── ConfirmLocal/
+    │   │   │   │   └── styles.ts
+    │   │   │   ├── PedidoConfirmado.tsx
+    │   │   │   ├── Form/
+    │   │   │   │   ├── CheckoutForm.tsx
+    │   │   │   │   └── styles.ts
+    │   ├── Home/
+    │   │   ├── Home.tsx
+    │   │   └── styles.ts
+    ├── styles/
+    │   ├── Global.ts
+    │   └── themes/
+    │       ├── default.ts
+    ├── types/
+    │   ├── styled.d.ts
+    │   └── types.ts
+    ├── App.tsx
+    ├── main.tsx
+    ├── Router.tsx
+    └── vite-env.d.ts
+```
+⚙️Configuração e Instalação 
+```bash
+  1. Clone o repositório:
+     
     git clone https://github.com/ThiagoTora/AppCoffee.git
     cd AppCoffee
-
-  
+```
+  2. Instale as dependências:
+```bash
+    npm install
+    # ou
+    yarn install
+```
+  3. Execute o servidor de desenvolvimento:
+```bash
+     npm run dev
+     # ou
+     yarn dev
+```
+Isso iniciará o servidor de desenvolvimento Vite. Geralmente estará disponível em:
+http://localhost:5173
