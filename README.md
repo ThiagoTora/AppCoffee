@@ -1,4 +1,4 @@
-☕ **Coffee Delivery** 
+☕ **Coffee Delivery**  
 é um site React para um serviço de entrega de café, permitindo aos usuários navegar por um catálogo de cafés, adicioná-los a um carrinho de compras e concluir um processo de checkout com informações de entrega e seleção de pagamento.
 
 ---
