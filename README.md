@@ -1,9 +1,9 @@
-☕ **Coffee Delivery**  
+---------- **Coffee Delivery**  
 É um site React para um serviço de entrega de café, permitindo aos usuários navegar por um catálogo de cafés, adicioná-los a um carrinho de compras e concluir um processo de checkout com informações de entrega e seleção de pagamento.
 
 ---
 
-### ✨ Funcionalidades
+### ---------- Funcionalidades
 
 #### Catálogo de Produtos
 - Navegue por uma variedade de tipos de café com descrições, preços e tags (por exemplo, "Tradicional", "Gelado", "Especial").
@@ -24,7 +24,7 @@
 
 ---
 
-### 🧰 Tecnologias Utilizadas
+### ---------- Tecnologias Utilizadas
 
 - **React**: Biblioteca para construção de interfaces de usuário.
 - **TypeScript**: Superset do JavaScript com tipagem estática.
@@ -37,7 +37,7 @@
 
 ---
 
-### 🗂️ Estrutura do Projeto
+### ---------- Estrutura do Projeto
 
 ```plaintext
     src/
@@ -78,7 +78,7 @@
     ├── Router.tsx
     └── vite-env.d.ts
 ```
-⚙️Configuração e Instalação 
+### ---------- Configuração e Instalação 
 1. Clone o repositório:
    
     ```bash 
@@ -90,17 +90,10 @@
    
     ```bash
         npm install
-        # ou
-        yarn install
     ```
     
 5. Execute o servidor de desenvolvimento:
    
     ```bash
          npm run dev
-         # ou
-         yarn dev
     ```
-    
-Isso iniciará o servidor de desenvolvimento Vite. Geralmente estará disponível em:
-http://localhost:5173
