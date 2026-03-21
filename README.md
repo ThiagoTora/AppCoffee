@@ -1,10 +1,13 @@
+<img width="1878" height="973" alt="image" src="https://github.com/user-attachments/assets/c5d6ef29-1546-43c2-aa45-487f7f1c5131" />
+
+
 ### ---------- **Coffee Delivery**  
 É um site React para um serviço de entrega de café, permitindo aos usuários navegar por um catálogo de cafés, adicioná-los a um carrinho de compras e concluir um processo de checkout com informações de entrega e seleção de pagamento.
 
 ### ----------- Link para a visualização do projeto
 
 ```bash
-
+   https://app-coffee-pi.vercel.app
 ```
 
 ### ---------- Funcionalidades
