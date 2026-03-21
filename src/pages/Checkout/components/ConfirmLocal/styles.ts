@@ -10,6 +10,7 @@ const ICON_COLORS = {
   'purple-100': 'purple-100',
   'yellow-300' : 'yellow-300',
   'yellow-500': 'yellow-500',
+  'gray-500': 'gray-500',
 } as const;
 
 
