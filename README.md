@@ -37,6 +37,26 @@
 
 ---
 
+### ---------- Configuração e Instalação 
+1. Clone o repositório:
+   
+    ```bash 
+        git clone https://github.com/ThiagoTora/AppCoffee.git
+        cd AppCoffee
+    ```
+    
+2. Instale as dependências:
+   
+    ```bash
+        npm install
+    ```
+    
+3. Execute o servidor de desenvolvimento:
+   
+    ```bash
+         npm run dev
+    ```
+
 ### ---------- Estrutura do Projeto
 
 ```plaintext
@@ -78,22 +98,4 @@
     ├── Router.tsx
     └── vite-env.d.ts
 ```
-### ---------- Configuração e Instalação 
-1. Clone o repositório:
-   
-    ```bash 
-        git clone https://github.com/ThiagoTora/AppCoffee.git
-        cd AppCoffee
-    ```
-    
-3. Instale as dependências:
-   
-    ```bash
-        npm install
-    ```
-    
-5. Execute o servidor de desenvolvimento:
-   
-    ```bash
-         npm run dev
-    ```
+
